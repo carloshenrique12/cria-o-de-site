@@ -1,0 +1,17 @@
+.quadrado {
+    width: 200px;
+    height: 200px;
+    background-color: #ccc;
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .texto {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  span {
+    margin-right: 10px;
+  }
+  
